@@ -1,0 +1,9 @@
+[submodule "vendor/libft"]
+	path = vendor/libft
+	url = git@github.com:Univers42/libft.git
+[submodule "vendor/xft"]
+	path = vendor/xft
+	url = git@github.com:Univers42/xft.git
+[submodule "vendor/libft_tester"]
+	path = vendor/libft_tester
+	url = git@github.com:Univers42/libft_tester.git
